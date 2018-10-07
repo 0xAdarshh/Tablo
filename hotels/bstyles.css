@@ -1,0 +1,34 @@
+.brand {
+  font-weight: bold;
+  font-size: 30px !important;
+  letter-spacing: 2px;
+  color: white !important;
+  font-family: "Sriracha", cursive;
+}
+
+nav {
+  background-color: #d63031 !important;
+}
+
+/* This Style Sheet is for the Booking Page */
+.radio {
+  background: url("../images/offer1.png") no-repeat;
+  background-size: 70px 70px;
+  cursor: pointer;
+  margin-top: 2px;
+  height: 80px;
+  width: 80px;
+  color: white;
+  padding-top: 11px;
+}
+
+.radio.selected {
+  background: url("../images/offer2.png") no-repeat;
+  background-size: 70px 70px;
+  cursor: pointer;
+  margin-top: 2px;
+  height: 80px;
+  width: 80px;
+  color: white;
+  padding-top: 11px;
+}

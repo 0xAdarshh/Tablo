@@ -1,0 +1,38 @@
+.brand {
+  font-weight: bold;
+  font-size: 30px !important;
+  letter-spacing: 2px;
+  color: white !important;
+  font-family: "Sriracha", cursive;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+nav {
+  background-color: #d63031 !important;
+}
+
+.jumbotron {
+  width: 80%;
+  margin-top: 20%;
+  padding: 2%;
+  margin-left: 10%;
+  color: #e9ecef !important;
+  background-color: rgba(0, 0, 0, 0.808) !important;
+}
+
+.form-control {
+  background-color: #474747e7 !important;
+  color: azure !important;
+}
+
+.cover {
+  width: 100%;
+  height: 100vh;
+  background: url(../images/img5.png) no-repeat 50% 50%;
+  background-size: cover;
+}
