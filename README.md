@@ -33,6 +33,8 @@ But you can get more details by going through my performance report(verified by 
 
 ![alt text](https://github.com/adarsh456/Tablo/blob/master/screenshots/home.PNG)
 
+# RESTAURANT BOOKING PAGE
+
 ![alt text](https://github.com/adarsh456/Tablo/blob/master/screenshots/hotel%20info.png)
 
 # LOGIN PAGE
@@ -43,11 +45,11 @@ But you can get more details by going through my performance report(verified by 
 
 ![alt text](https://github.com/adarsh456/Tablo/blob/master/screenshots/signup.PNG)
 
-# HOTELS DISPLAY
+# RESTAURANTS DISPLAY
 
 ![alt text](https://github.com/adarsh456/Tablo/blob/master/screenshots/hotels.PNG)
 
-# HOTEL ADMIN PANEL
+# RESTAURANTS ADMIN PANEL
 _____________________________________________________________________________________________________________________________________
 
 # DASHBOARD
